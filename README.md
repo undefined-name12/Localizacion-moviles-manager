@@ -29,6 +29,8 @@ $ npm start
 Utilice Location Device Manager como servicio para administrar dispositivos de ubicación o cualquier otro dispositivo basado en SMS.
 
 ## Pruebas
-Location Device Manager utiliza SQLite en memoria para las pruebas. La interfaz de las bases de datos es la misma (Bookshelf/Knex) que la de la aplicación normal. Las migraciones se ejecutan en cada prueba para garantizar que la estructura de la base de datos esté actualizada. Al finalizar las pruebas, los datos o tablas almacenados desaparecen. ```
+Location Device Manager utiliza SQLite en memoria para las pruebas. La interfaz de las bases de datos es la misma (Bookshelf/Knex) que la de la aplicación normal. Las migraciones se ejecutan en cada prueba para garantizar que la estructura de la base de datos esté actualizada. Al finalizar las pruebas, los datos o tablas almacenados desaparecen.
+
+```
 $ npm run test
 ```
