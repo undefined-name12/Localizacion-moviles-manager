@@ -12,8 +12,8 @@ El Administrador de Dispositivos de Ubicación utiliza Bookshelf para gestionar 
 ## Instalación
 Asegúrese de tener MySQL configurado y disponible. Luego:
 ```$xslt
-$ git clone https://github.com/boriskogan81/location-device-manager.git
-//...cambiar al directorio /location-device-manager
+$ git clone https://github.com/undefined-name12/Localizacion-moviles-manager.git
+//...cambiar al directorio /Localizacion-moviles-manager
 $ npm install
 
 //Copiar los archivos de la carpeta config_templates a la carpeta config en la raíz.
